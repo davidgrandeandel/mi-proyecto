@@ -1,6 +1,6 @@
 # Mi Proyecto en Git
 
-Este es mi primer proyecto en Git. ¡Estoy emocionado por empezar!
+Este es mi primer proyecto en Git. ¡Estoy emocionado por empezar! a
 
 ## Enlaces
 - [Sitio web del proyecto](https://es.wikipedia.org/wiki/Página_web)
