@@ -25,3 +25,9 @@ Este es mi primer proyecto en Git. ¡Estoy emocionado por empezar!
 1. Primero
 2. Segundo
 3. Tercero
+
+## Historial de Commits
+
+commit e6fb288da3675b618d52c8fb0529f60c6e9c753e (HEAD -> master)
+Author: davidgrandebono@gmail.com <davidgrandebono@gmail.com>
+Date:   Mon Oct 30 16:04:44 2023 +0100
